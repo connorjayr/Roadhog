@@ -16,6 +16,7 @@ setup(
     python_requires='>=3.5',
     install_requires=[
         'discord.py',
+        'pynacl',
         'python-dotenv'
     ],
     packages=packages
